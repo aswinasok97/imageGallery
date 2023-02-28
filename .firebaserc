@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "image-gallery-f59ac": {
+      "hosting": {
+        "imgupload": [
+          "image-gallery-f59ac"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "image-gallery-f59ac"
+  }
+}
